@@ -6,9 +6,13 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-Optional-yellow?logo=javascript" alt="JavaScript" />
+
+  <img src="https://img.shields.io/badge/Java-17-red?logo=openjdk" alt="Java" />
+  <img src="https://img.shields.io/badge/C-Programming-blue?logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/C++-Programming-blueviolet?logo=cpp" alt="C++" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-Framework-success?logo=springboot" alt="Spring Boot" />
+
+
 </div>
 
 ---
