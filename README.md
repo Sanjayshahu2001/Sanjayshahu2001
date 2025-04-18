@@ -1,21 +1,52 @@
-# 🌟 HTML Project
+<h1 align="center">🌐 HTML Portfolio Project</h1>
 
-This is a simple and clean HTML project built for learning and showcasing frontend development skills. It demonstrates the basics of HTML structure, styling with CSS, and optional JavaScript interactivity.
+<p align="center">
+  <b>A responsive and modular HTML project built to showcase front-end development skills.</b><br>
+  Crafted by an MCA student exploring the web universe.
+</p>
 
-## 👨‍🎓 About Me
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-Optional-yellow?logo=javascript" alt="JavaScript" />
+</div>
 
-Hi, I'm **Sanjay Shahu**, an MCA student with a passion for coding and software development. I have experience in the following programming languages:
+---
 
-- C
-- C++
-- Java
+## 📖 Project Overview
 
-This project is part of my learning journey into web development.
+This project demonstrates the core structure of a modern, responsive website using HTML5 and CSS3. It's built as part of my journey into front-end development and serves as a base for future projects involving interactivity and backend integration.
 
-## 🚀 Live Demo
+---
 
-[Check out the Live Demo](https://your-live-demo-link.com)  
-*(Replace with your actual demo link if hosted on GitHub Pages, Netlify, etc.)*
+## 📸 Demo & Preview
 
-## 📁 Project Structure
+🚀 [Live Demo](https://your-live-demo-link.com)  
+📷 ![Preview](https://your-screenshot-link.com/screenshot.png)
 
+---
+
+## 🧑‍💻 About Me
+
+Hi there! 👋 I'm **Sanjay Shahu**, an MCA (Master of Computer Applications) student with a deep interest in full-stack development and software engineering. I have hands-on experience in:
+
+- 💻 **C, C++**
+- ☕ **Java**
+- 🌐 **HTML, CSS**
+- 🔄 Currently learning JavaScript, Git, and React
+
+---
+
+## 📁 Folder Structure
+
+```bash
+html-portfolio/
+│
+├── index.html             # Main HTML file
+├── css/
+│   └── style.css          # Custom styles
+├── js/
+│   └── script.js          # JavaScript (if used)
+└── assets/
+    ├── images/            # Project assets
+    └── fonts/             # Optional fonts
