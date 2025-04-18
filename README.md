@@ -1,4 +1,4 @@
-<h1 align="center">🌐 HTML Portfolio Project</h1>
+<h1 align="center">🌐 JAVA Portfolio Project</h1>
 
 <p align="center">
   <b>A responsive and modular HTML project built to showcase front-end development skills.</b><br>
